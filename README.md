@@ -2,20 +2,26 @@
   <img src="https://user-images.githubusercontent.com/91092610/174880147-a761ef00-2c94-458d-978d-104ae8931631.png"/>
 </p>
 <h1 align="center">
-   Evalexpr
+   EvalExpr
 </h1>
 
 ---
 
 ## Motivation : 
 
-Le **InfinAdd** est un des trois projets de début d'année à Epitech, on nous apprenons à programmer une calculatrice qui permet de faire des opérations infini et de différente base. L'InfinAdd est le tout premier projet de cette série, et son objectif est de faire des additions sur des chiffres Infini.
+L'**EvalExpr** est un des trois projets de début d'année à Epitech, ou nous apprenons à programmer une calculatrice qui permet de faire des opérations infini et de différente base. L'EvalExpr est le deuxième projet de cette liste et l'objectif est de reproduire une vrai calculatrice fonctionnelle.
 
 ---
 
 ## Description :
 
-Le but de ce projet est de nous apprendre à faire des opérations avec des chaînes de caractères, afin de ne pas être limité par le maximum integer. De cette façon il nous sera possible de faire des additions avec des nombres aussi grands que l'on veut. Le programme doit aussi pouvoir faire des addtions avec des nombres négatifs.
+Le but de ce projet est de nous apprendre à gérer les priorités des opérations lors d'un calcul avec des chaînes de caractères. Il faut pouvoir gérer : 
+- Les additions "+"
+- Les soustractions "-"
+- Les multiplications "*"
+- Les divisions "/"
+- Les modulos "%"
+- Les parenthèses "()"
 
 ---
 
@@ -29,16 +35,16 @@ Le but de ce projet est de nous apprendre à faire des opérations avec des cha�
 
 Ouvrez un terminal et dirigez vous ou vous souhaitez que le projet soit installé, puis exécutez les commandes suivantes : 
 ```bash
-$ git clone git@github.com:DoctypeHonoo/infinadd.git
-$ cd infinadd
+$ git clone git@github.com:DoctypeHonoo/evalexpr.git
+$ cd evalexpr
 $ make
 ```
 Une fois compilé, le binaire se trouvera à la racine du projet, et il vous faudra l'utiliser comme ceci :
 ```bash
-$ ./infin_add 1ER_Nombre 2EME_Nombre
+$ ./eval_expr expression_mathematique
 ```
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174876059-4fb7c427-c156-434b-ae23-8b7a83e32eb2.png"/>
+  <img src="https://user-images.githubusercontent.com/91092610/174882652-241efa10-55a5-44c6-a2dc-dd0fa0f3fe02.png"/>
 </p>
 
 ---
