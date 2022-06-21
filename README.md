@@ -51,7 +51,7 @@ $ ./eval_expr expression_mathematique
 
 ## Comment l'utiliser ? : 
 
-L'utilisateur doit donner deux chaînes de caractère contenant des nombres à additionner dans la ligne d'exécution du binaire : 
+Mon EvalExpr fonctionne avaec tout les opérateurs (+, -, \*, /, %, "()"). Il suffit de donner votre opérations à exécuter dans la ligne d'exécution du binaire.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174876619-79dd2128-6b7f-4680-881f-83f1384971ef.png"/>
+  <img src="https://user-images.githubusercontent.com/91092610/174884072-cdcd6308-4569-4056-9650-0175ebafa668.png"/>
 </p>
