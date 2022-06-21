@@ -44,7 +44,7 @@ Une fois compilé, le binaire se trouvera à la racine du projet, et il vous fau
 $ ./eval_expr expression_mathematique
 ```
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174882929-6fe5ab2d-b576-4c65-a012-31d172649e75.png"/>
+  <img src="https://user-images.githubusercontent.com/91092610/174883049-241d4e44-6283-4254-8eeb-554150c75256.png"/>
 </p>
 
 ---
