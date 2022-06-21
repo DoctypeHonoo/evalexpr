@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174870855-413fe7d8-539d-48bc-8e3e-e64d63058d34.png"/>
+  <img src="https://user-images.githubusercontent.com/91092610/174880147-a761ef00-2c94-458d-978d-104ae8931631.png"/>
 </p>
 <h1 align="center">
-   InfinAdd
+   Evalexpr
 </h1>
 
 ---
